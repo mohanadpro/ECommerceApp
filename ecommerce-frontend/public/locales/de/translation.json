@@ -1,0 +1,71 @@
+{
+      "Logout":{
+            "1":"Ausloggen"
+      },
+      "Profile":{
+            "1":"Profil"
+      },
+      "User management":{
+            "1":"Benutzerverwaltung"
+      },
+      "Product management":{
+            "1":"Produkt Management"
+      },
+      "Charts":{
+            "1":"Diagramme"
+      },
+      "Cart":{
+            "1":"Karte"
+      },
+      "Sign In":{
+            "1":"Einloggen"
+      },
+      "Sign Up":{
+            "1":"Anmelden"
+      },
+      "Add to Cart":{
+            "1":"In den Warenkorb legen"
+      },
+      "checkout":{
+            "1":"Zur Kasse"
+      },
+      "Password":{
+            "1":"Passwort"
+      },
+      "Email placeholder":{
+            "1":"Bitte geben Sie Ihre E-Mail ein"
+      },
+      "Password placeholder":{
+            "1":"Bitte geben Sie Ihre Passwort ein"
+      },
+      "New to":{
+            "1":"Neu bei"
+      },
+      "All rights reserved":{
+            "1":"Alle Richte vorbehatlen"
+      },
+      "Stars":{
+            "1":"Sterne"
+      },
+      "Reviews":{
+            "1":"Bewertungen"
+      },
+      "Subtotal":{
+            "1":"Zwischensumme"
+      },
+      "item":{
+            "1":"Artikel"
+      },
+      "items":{
+            "1":"Artikel"
+      },
+      "Shopping Cart":{
+            "1":"Einkaufswagen"
+      },
+      "Qty":{
+            "1":"Menge"
+      },
+      "empty cart":{
+            "1":"leerer Wagen"
+      }
+}

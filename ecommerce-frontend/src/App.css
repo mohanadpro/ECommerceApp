@@ -1,0 +1,99 @@
+*{
+  box-sizing: border-box;
+
+}
+
+
+.page-container{
+  position: relative;
+  min-height: 100vh;
+}
+
+ul li{
+  list-style-type: none;
+}
+
+/* start navbar */
+
+.navbar button{
+  background:none;
+  border: none;
+  color: white;
+  font-size: 2rem;
+}
+
+.navbar-brand{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+  color:white
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+  color:red
+}
+
+
+.mynav .dropdown-menu{
+  margin: 0.125rem -10.1rem 0;
+}
+
+.languages .dropdown-menu
+{
+  margin: 0.125rem -2.6rem 0;
+}
+/* end navbar */
+
+/* start aside */
+
+.sidebar{
+  position: fixed;
+  width: 30rem;
+  transform: translateX(-30rem);
+  background-color: #343a40;
+  height: 100%;
+  color: white;
+}
+
+.sidebar > h3{
+  color: white;
+}
+
+.sidebar a{
+  color: white;
+}
+
+.sidebar button{ 
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: none;
+  border: 1px solid #AAA;
+  border-radius: 50%;
+  color: white;
+}
+
+.sidebar.open{
+  transition: all 0.5s ease-in-out;
+  transform: translateX(0);
+}
+
+/* end aside */
+
+
+
+/* start footer */
+footer{
+  color: white;
+  background-color: #343a40;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+/* end footer */

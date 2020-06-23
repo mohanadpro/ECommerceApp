@@ -1,0 +1,64 @@
+.create-product{
+      display: block;
+      border: 0.2rem solid #f0f0f0;
+      padding: 1rem;
+      width: 28rem;
+      margin:3rem auto ;   
+      position: relative;;   
+}
+
+.create-product table>tr{
+      margin-bottom: 0.3rem;
+}
+
+.create-product table>tr>td:first-child
+{
+      padding: 0.5rem;
+}
+
+.create-product input{
+      border: none;
+      border-bottom: 0.2rem solid #343a40 ;
+      margin-bottom: 0.5rem;
+      text-align: center; 
+      width: 100%;      
+      font-size: 1.5rem; 
+}
+
+.create-product input:focus{
+      outline: none;
+}
+
+.create-product input[type="file"]
+{
+      border: none;
+}
+.create-product textarea
+{
+      width: 100%;
+}
+.create-product .add-product-button{
+      width: 100%;
+}
+.list-founded-products{
+      margin-top: 3rem;
+}
+.list-founded-products >tbody>tr:nth-child(Even)
+{
+      background-color: #f0f0f0;
+}
+.clear-btn-create{
+      margin: 0 1.5rem 0.5rem 0 ;
+      font-size: 2rem;
+}
+
+.clear-btn{
+      background: none;
+      border: none;
+}
+
+.position-left{
+      position: absolute;
+      top:0;
+      left:0
+}

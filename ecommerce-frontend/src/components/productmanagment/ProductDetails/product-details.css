@@ -1,0 +1,42 @@
+.product-details{
+      margin-top: 30px;
+}
+.product-details-info .product-price{
+      color: red;
+      font-weight: bold;
+      display: inline-block;
+}
+
+img{
+      width: 100%;
+      height: 100%;
+}
+
+.product-details .product-details-info ul li{
+      margin-bottom: 1.5rem;
+}
+
+.action{
+      border: 2px solid #EEE;
+      height: 300px;     
+}
+
+.action table tbody tr{
+      height: 50px;
+}
+
+.action table tbody tr td{
+      width: 60px;
+}
+
+
+.add-to-cart-button{
+      margin-top: 30px;
+     background: #f0c14b;
+     border: 1px solid black;
+     border-radius: 5px;
+     width: 100%;
+}
+.product-quantity{
+      width:50px;
+}

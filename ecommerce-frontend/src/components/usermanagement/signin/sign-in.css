@@ -1,0 +1,50 @@
+.sign-in{
+      width: 25rem;
+      display: block;
+      margin: 2rem auto;
+      border:0.2rem solid #f0f0f0;
+      display: flex;
+      flex-direction: column;
+}
+
+.sign-in input{
+      margin: 0 1rem;
+      width: 90%;
+      padding: 0.3rem;
+}
+
+.sign-in > h1 {
+      font-weight: bolder;
+      text-align: center;
+}
+
+.sign-in > .form-sign-in >div>label{
+      margin: 0.5rem 1rem -1rem;
+      font-weight: bold;
+
+}
+.sign-in .form-sign-in{
+      margin: 1rem 1rem 1rem 2rem;
+}
+.sign-in input[type="text"],.sign-in button{
+      margin: 0 1rem ;
+      width: 90%;
+      padding: 0.2rem 0;
+      text-align: center;
+}
+
+
+
+.sign-in .amazona-button{
+      background-color: #f0c14b;
+      font-weight: bolder;
+      margin-top: 2rem;
+}
+.sign-in .sing-up-button{
+      background-color: #f0f0f0;
+      font-weight: bolder;
+}
+
+.sign-in .alert-danger{
+      margin: 0 0 0.5rem 1rem;
+}
